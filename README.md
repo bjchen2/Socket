@@ -22,5 +22,5 @@ Java Socket应用---通信是这样练成的<br/>
   &emsp;IDE：IDEA 2017.3.3，<br/>
   &emsp;操作系统为：Windows10<br/>
 
-- 关于一些学习笔记可参看**Note文件夹**，可能需要下载一个OneNote，个人感觉对于记笔记来说真的是个好东西<br/>
+- 关于一些学习笔记可参看**Socket.one**，可能需要下载一个OneNote，个人感觉对于记笔记来说真的是个好东西<br/>
 
